@@ -6,6 +6,7 @@
 ![Alt text](https://github.com/arfinadevi28/-Modul-2-PBO-/blob/master/ujibus%20lat1.PNG)
 
  - perhatikan jumlah penumpang Bus terakhir dengan jumlah penumpang maksimum mengapa bisa demikian ?
+ 
  = karena jumlah penumpang Bus yang terakhir melebihi kapasitas penumpang, seharusnya penumpang bus maksimal berjumlah 15 orang.
 
 # Uji Latihan Bus 2
